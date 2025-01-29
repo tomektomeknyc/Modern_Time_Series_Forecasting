@@ -21,6 +21,8 @@ jupyter>=1.0.0
 nbconvert>=6.0.0
 tqdm>=4.60.0
 openpyxl
+kaggle
+
 
 
 
